@@ -6,15 +6,11 @@ Notable features:
 
 * Includes a [multi-stage `Dockerfile`](https://github.com/olliefr/docker-gs-ping/blob/main/Dockerfile.multistage).
 * Has a CI pipeline using GitHub Actions to run tests.
-* Has a CD pipeline using GitHub Actions to publish to Docker Hub.
-
-## Want _moar_?!
-
-There is a more advanced example in [olliefr/docker-gs-ping-roach](https://github.com/olliefr/docker-gs-ping-roach) using [CockroachDB](https://github.com/cockroachdb/cockroach).
+(* Has a CD pipeline using GitHub Actions to publish to Docker Hub.)
 
 ## Contributing
 
-This was written for an _introduction_ section of the Docker tutorial and as such it favours brevity and pedagogical clarity over robustness. 
+This was written for an _introduction_ section of the fizz-buzz and as such it favours clarity over robustness. 
 
 Thus, feedback is welcome, but please no nits or pedantry. Ain't nobody got time for that 🙃
 
